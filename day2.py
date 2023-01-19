@@ -1,5 +1,4 @@
 # Newton loves EVEN numbers.
-
 # You are given two integers N and M. Generate 5 unique even numbers for Newton between N and M (excluding both).
 n=int(input())
 guest=[]

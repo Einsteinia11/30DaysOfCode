@@ -1,3 +1,9 @@
+// Problem Statement
+// You are given two strings S and T. Determine whether it is possible to make S and T equal by doing the following operation at most once:
+
+// Choose two adjacent characters in S and swap them.
+
+// Note that it is allowed to choose not to do the operation.
 #include <bits/stdc++.h> // header file includes every Standard library
 using namespace std;
 
